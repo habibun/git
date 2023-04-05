@@ -7,7 +7,8 @@
 
 ## Learn More
 - [Git Official Docs][git_docs]
-- [Git Rebase Vs. Merge](https://www.youtube.com/watch?v=7Mh259hfxJg)  - Vdo
+- [Git Rebase Vs. Merge](https://www.youtube.com/watch?v=7Mh259hfxJg)
+- [Git Branching Commands Explained with Examples](https://www.freecodecamp.org/news/git-branching-commands-explained/)
 
 
 
